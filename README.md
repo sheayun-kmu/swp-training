@@ -1,2 +1,2 @@
 # 2016669 Sheayun Lee
-# Kookmin Univ. SW
+# Kookmin Univ. computer science
